@@ -41,24 +41,12 @@ O projeto simula um fluxo de preenchimento em etapas (ex.: dados do usuário →
 
 ---
 
-## ⚠️ Atenção: pasta correta para rodar
-
-O projeto está dentro de uma pasta **aninhada**.  
-Você deve executar os comandos na pasta que contém o `package.json` com o script `dev`:
-
-✅ **Caminho correto:**
-react_multistep_form/react_multistep_form
-
-Se você rodar no diretório pai, vai aparecer:
-`npm error Missing script: "dev"`.
-
----
 
 ## ▶️ Como executar
 ```
-1) Entre na pasta correta:
+1) Entre na pasta 
    
-cd react_multistep_form/react_multistep_form
+cd react_multistep_form
 
 2) Instale as dependências:
    
